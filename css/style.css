@@ -1,0 +1,27 @@
+div.gambar
+    {
+        width: 50;
+        height: 10;
+    }
+
+ul 
+    {
+        text-align: center;
+        list-style-position: inside;
+    }
+
+table
+    {
+        border-collapse: collapse;
+        border-color: black;
+        text-align: center;
+        width: 100%;
+    }
+
+tr,td,th
+    {
+        border: 3px solid white;
+        padding: 10px;
+        padding-top: 10px;
+        background-color: rgb(223, 105, 160);
+    }
